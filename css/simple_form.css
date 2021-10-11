@@ -8,6 +8,7 @@ body {
     max-width: 600px;
     margin: 0px auto;
     padding: 2em;
+    background-color: bisque;
 }
 
 .headerContainer {
@@ -48,8 +49,12 @@ input {
 }
 
 button {
-    width: 70%;
+    width: 90%;
+    align-items: center;
     margin: 0 auto;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 error-output {
